@@ -1,0 +1,917 @@
+[
+    {
+        "item": "Bacon Club Chalupa",
+        "preço": 58.33,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Blue Raspberry Freeze™ (16 oz)",
+        "preço": 39.38,
+        "descrição": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "item": "Blue Raspberry Freeze™ (20 oz)",
+        "preço": 47.71,
+        "descrição": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "item": "Loaded Nacho Taco",
+        "preço": 30.3,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Midnight Berry Freeze™ (16 oz)",
+        "preço": 48.73,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Midnight Berry Freeze™ (20 oz)",
+        "preço": 54.36,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Nacho Fries",
+        "preço": 41.51,
+        "descrição": "Uma deliciosa refeição para toda a família."
+    },
+    {
+        "item": "Nacho Fries BellGrande®",
+        "preço": 31.15,
+        "descrição": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "item": "Black Bean Chalupa – Online Exclusive",
+        "preço": 32.65,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Black Bean Quesarito – Online Exclusive",
+        "preço": 56.06,
+        "descrição": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "item": "Quesarito – Online Exclusive",
+        "preço": 57.06,
+        "descrição": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "item": "Chalupa Supreme® – Beef",
+        "preço": 34.58,
+        "descrição": "Sabor autêntico e suculento."
+    },
+    {
+        "item": "Chalupa Supreme® – Chicken",
+        "preço": 59.32,
+        "descrição": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Chalupa Supreme® – Steak",
+        "preço": 45.08,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Cheesy Gordita Crunch",
+        "preço": 40.77,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Crunchy Taco",
+        "preço": 32.86,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Crunchy Taco Supreme®",
+        "preço": 45.25,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Loaded Nacho Taco (New)",
+        "preço": 55.56,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Nacho Cheese Doritos® Locos Taco",
+        "preço": 53.42,
+        "descrição": "Sabor autêntico e suculento."
+    },
+    {
+        "item": "Nacho Cheese Doritos® Locos Taco Supreme®",
+        "preço": 52.51,
+        "descrição": "Uma combinação única de sabores e texturas."
+    },
+    {
+        "item": "Soft Taco – Beef",
+        "preço": 50.33,
+        "descrição": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "item": "Soft Taco – Chicken",
+        "preço": 55.18,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Soft Taco Supreme®",
+        "preço": 48.36,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Soft Taco – Beef",
+        "preço": 52.58,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Soft Taco – Chicken",
+        "preço": 46.16,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Bean Burrito (V)",
+        "preço": 49.6,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Beefy 5-Layer Burrito",
+        "preço": 52.61,
+        "descrição": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "item": "Burrito Supreme® – Beef",
+        "preço": 59.05,
+        "descrição": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "item": "Burrito Supreme® – Chicken",
+        "preço": 36.7,
+        "descrição": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "item": "Burrito Supreme® – Steak",
+        "preço": 37.57,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Chili Cheese Burrito (regional)",
+        "preço": 38.98,
+        "descrição": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "item": "Quesarito – Beef",
+        "preço": 59.83,
+        "descrição": "Sabor autêntico e suculento."
+    },
+    {
+        "item": "Quesarito – Chicken",
+        "preço": 59.77,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Quesarito – Steak",
+        "preço": 33.25,
+        "descrição": "A escolha saudável para um dia agitado."
+    },
+    {
+        "item": "Chips and Nacho Cheese Sauce (V)",
+        "preço": 41.01,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Nacho Fries (V) (New)",
+        "preço": 50.76,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Nacho Fries BellGrande® (New)",
+        "preço": 52.39,
+        "descrição": "Leve e delicioso, ótimo para compartilhar."
+    },
+    {
+        "item": "Nachos BellGrande® – Beef",
+        "preço": 35.4,
+        "descrição": "Sabores únicos que vão surpreender você."
+    },
+    {
+        "item": "Nachos BellGrande® – Chicken",
+        "preço": 53.68,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Nachos BellGrande® – Steak",
+        "preço": 36.27,
+        "descrição": "Uma mistura de doçura e crocância."
+    },
+    {
+        "item": "Beef Quesarito",
+        "preço": 44.91,
+        "descrição": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "item": "Black Bean Quesarito (V)",
+        "preço": 45.26,
+        "descrição": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Quesadilla – Cheese (V)",
+        "preço": 33.78,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Quesadilla – Chicken",
+        "preço": 39.63,
+        "descrição": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "Quesadilla – Steak",
+        "preço": 32.17,
+        "descrição": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "item": "Bacon Club Chalupa – Specialties",
+        "preço": 59.56,
+        "descrição": "Uma opção deliciosa e satisfatória."
+    },
+    {
+        "item": "Black Bean Chalupa – Specialties",
+        "preço": 42.11,
+        "descrição": "Uma escolha saudável e deliciosa."
+    },
+    {
+        "item": "Black Bean Crunchwrap Supreme – Specialties",
+        "preço": 38.72,
+        "descrição": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Black Bean Quesarito – Specialties",
+        "preço": 45.5,
+        "descrição": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "item": "Chalupa Supreme® – Specialties",
+        "preço": 54.45,
+        "descrição": "Um clássico que nunca sai de moda."
+    },
+    {
+        "item": "Cheesy Gordita Crunch – Specialties",
+        "preço": 55.5,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Cheesy Roll Up – Specialties",
+        "preço": 43.07,
+        "descrição": "Para os amantes de café e cappuccinos."
+    },
+    {
+        "item": "Crunchwrap Supreme® – Specialties",
+        "preço": 35.78,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Crunchy Taco – Specialties",
+        "preço": 45.81,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Nacho Cheese Doritos® Locos Taco – Specialties",
+        "preço": 33.47,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Nachos BellGrande® – Specialties",
+        "preço": 31.39,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Power Menu Bowl – Specialties",
+        "preço": 46.92,
+        "descrição": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "item": "Quesadilla – Specialties",
+        "preço": 53.41,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Quesarito – Specialties",
+        "preço": 52.38,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Soft Taco – Specialties",
+        "preço": 32.21,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Soft Taco Supreme – Specialties",
+        "preço": 32.37,
+        "descrição": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "item": "Veggie Power Menu Bowl – Specialties",
+        "preço": 52.93,
+        "descrição": "Uma opção deliciosa e reconfortante."
+    },
+    {
+        "item": "Black Beans & Rice (V)",
+        "preço": 36.01,
+        "descrição": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "item": "Black Beans (V)",
+        "preço": 55.48,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Cinnabon® Delights™ (2 Pk) (V)",
+        "preço": 29.98,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Cinnabon® Delights™ (12 Pk – Serves 4) (V)",
+        "preço": 51.97,
+        "descrição": "Uma combinação única de sabores e texturas."
+    },
+    {
+        "item": "Cinnamon Twists (V)",
+        "preço": 39.47,
+        "descrição": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "item": "Diablo Sauce Packet (V)",
+        "preço": 50.82,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Fire Sauce Packet (V)",
+        "preço": 32.57,
+        "descrição": "O acompanhamento perfeito para qualquer refeição."
+    },
+    {
+        "item": "Hot Sauce Packet (V)",
+        "preço": 56.81,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Mild Sauce Packet (V)",
+        "preço": 56.55,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Blue Raspberry Freeze™ (16 oz) (New)",
+        "preço": 39.55,
+        "descrição": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "item": "Blue Raspberry Freeze™ (20 oz) (New)",
+        "preço": 42.96,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Dragon Fruit Freeze (16 oz)",
+        "preço": 32.88,
+        "descrição": "O acompanhamento perfeito para qualquer refeição."
+    },
+    {
+        "item": "Dragon Fruit Freeze (20 oz)",
+        "preço": 30.81,
+        "descrição": "Uma opção deliciosa e satisfatória."
+    },
+    {
+        "item": "Lowfat Milk – CA (Regional)",
+        "preço": 38.77,
+        "descrição": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Lowfat Milk – Federal (Regional)",
+        "preço": 48.06,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Midnight Berry Freeze™ (16 oz) (New)",
+        "preço": 42.62,
+        "descrição": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "item": "Midnight Berry Freeze™ (20 oz) (New)",
+        "preço": 34.45,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast Freeze™ (16 oz)",
+        "preço": 30.29,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast Freeze™ (20 oz)",
+        "preço": 34.68,
+        "descrição": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "item": "Orange Juice",
+        "preço": 47.47,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Premium Hot Coffee",
+        "preço": 57.11,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Regular Iced Coffee",
+        "preço": 37.42,
+        "descrição": "Para os amantes de comida caseira."
+    },
+    {
+        "item": "Water",
+        "preço": 36.61,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Wild Strawberry Freeze™ (16 oz)",
+        "preço": 39.85,
+        "descrição": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "item": "Wild Strawberry Freeze™ (20 oz)",
+        "preço": 46.65,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "Beef Burrito – Value Menu",
+        "preço": 53.04,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Cheesy Bean & Rice Burrito – Value Menu",
+        "preço": 46.87,
+        "descrição": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "item": "Cheesy Roll Up – Value Menu",
+        "preço": 56.89,
+        "descrição": "Sabor autêntico que aquece o coração."
+    },
+    {
+        "item": "Chicken Chipotle Melt – Value Menu",
+        "preço": 48.41,
+        "descrição": "Uma opção deliciosa e satisfatória."
+    },
+    {
+        "item": "Chips and Nacho Cheese Sauce – Value Menu",
+        "preço": 41.13,
+        "descrição": "A escolha saudável para um dia agitado."
+    },
+    {
+        "item": "Cinnamon Twists – Value Menu",
+        "preço": 51.79,
+        "descrição": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Loaded Nacho Taco – Value Menu",
+        "preço": 50.74,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Bean Burrito",
+        "preço": 32.83,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Black Bean Chalupa",
+        "preço": 52.66,
+        "descrição": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Black Bean Crunchwrap Supreme",
+        "preço": 39.13,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Black Bean Quesarito",
+        "preço": 32.84,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Black Beans & Rice",
+        "preço": 58.07,
+        "descrição": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Cheese Quesadilla",
+        "preço": 30.37,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Cheesy Bean & Rice Burrito",
+        "preço": 48.15,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Cheesy Roll Up",
+        "preço": 37.38,
+        "descrição": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "item": "Chips and Nacho Cheese Sauce",
+        "preço": 54.44,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Cinnabon® Delights™ (2 Pack)",
+        "preço": 50.64,
+        "descrição": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "item": "Cinnabon® Delights™ (12 Pack – Serves 4)",
+        "preço": 31.92,
+        "descrição": "A escolha saudável para um dia agitado."
+    },
+    {
+        "item": "Cinnamon Twists",
+        "preço": 51.06,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Hash Brown",
+        "preço": 39.79,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Power Menu Bowl – Veggie",
+        "preço": 56.83,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Power Menu Bowl – Chicken",
+        "preço": 32.17,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Power Menu Bowl – Steak",
+        "preço": 32.3,
+        "descrição": "Uma escolha saudável e deliciosa."
+    },
+    {
+        "item": "Power Menu Bowl – Veggie (V)",
+        "preço": 57.3,
+        "descrição": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "item": "Breakfast Crunchwrap – Bacon",
+        "preço": 36.21,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Breakfast Crunchwrap – Sausage",
+        "preço": 58.39,
+        "descrição": "Uma opção saudável e satisfatória."
+    },
+    {
+        "item": "Breakfast Crunchwrap – Steak",
+        "preço": 46.25,
+        "descrição": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "item": "Breakfast Salsa Packet (V)",
+        "preço": 58.61,
+        "descrição": "Sabor autêntico que aquece o coração."
+    },
+    {
+        "item": "Cheesy Toasted Breakfast Burrito – Bacon",
+        "preço": 45.07,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Cheesy Toasted Breakfast Burrito – Fiesta Potato (V)",
+        "preço": 44.41,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Cheesy Toasted Breakfast Burrito – Sausage",
+        "preço": 49.33,
+        "descrição": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "item": "Cinnabon® Delights™ (2 Pack) (V)",
+        "preço": 40.84,
+        "descrição": "A escolha saudável para um dia agitado."
+    },
+    {
+        "item": "Cinnabon® Delights™ (12 Pack – Serves 4) (V)",
+        "preço": 48.11,
+        "descrição": "Uma mistura de doçura e crocância."
+    },
+    {
+        "item": "Grande Toasted Breakfast Burrito – Bacon",
+        "preço": 47.02,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Grande Toasted Breakfast Burrito – Sausage",
+        "preço": 56.86,
+        "descrição": "Sinta o sabor da natureza em cada mordida."
+    },
+    {
+        "item": "Grande Toasted Breakfast Burrito – Steak",
+        "preço": 43.44,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Hash Brown (V)",
+        "preço": 42.42,
+        "descrição": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "item": "Hash Brown Toasted Breakfast Burrito – Bacon",
+        "preço": 54.0,
+        "descrição": "O acompanhamento perfeito para qualquer refeição."
+    },
+    {
+        "item": "Hash Brown Toasted Breakfast Burrito – Sausage",
+        "preço": 37.63,
+        "descrição": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "item": "Hash Brown Toasted Breakfast Burrito – Steak",
+        "preço": 48.33,
+        "descrição": "Uma opção deliciosa e reconfortante."
+    },
+    {
+        "item": "7-Up (16 fl oz)",
+        "preço": 31.4,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Brisk® Mango Iced Tea (16 fl oz)",
+        "preço": 43.31,
+        "descrição": "Sabor exótico que você vai adorar."
+    },
+    {
+        "item": "Brisk® Unsweetened No Lemon Iced Tea (16 fl oz)",
+        "preço": 53.24,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Diet Dr Pepper® (16 fl oz)",
+        "preço": 42.36,
+        "descrição": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "item": "Diet Mtn Dew® (16 fl oz)",
+        "preço": 53.96,
+        "descrição": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "item": "Diet Pepsi® (16 fl oz)",
+        "preço": 39.57,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Dr Pepper® (16 fl oz)",
+        "preço": 46.43,
+        "descrição": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "item": "G2 – Fruit Punch (16 fl oz)",
+        "preço": 52.67,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Mtn Dew® (16 fl oz)",
+        "preço": 52.29,
+        "descrição": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast™ (16 fl oz)",
+        "preço": 35.23,
+        "descrição": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast Zero Sugar (16 fl oz)",
+        "preço": 54.91,
+        "descrição": "Uma deliciosa refeição para toda a família."
+    },
+    {
+        "item": "Mtn Dew® Kickstart™ Orange Citrus (16 fl oz)",
+        "preço": 34.61,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Mug® Root Beer (16 fl oz)",
+        "preço": 32.11,
+        "descrição": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Pepsi® (16 fl oz)",
+        "preço": 57.71,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Pepsi® Wild Cherry (16 fl oz)",
+        "preço": 55.8,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Pepsi® Zero Sugar (16 fl oz)",
+        "preço": 51.26,
+        "descrição": "Uma opção saudável e equilibrada."
+    },
+    {
+        "item": "Sierra Mist® (16 fl oz)",
+        "preço": 40.22,
+        "descrição": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "item": "Tropicana® Pink Lemonade (16 fl oz)",
+        "preço": 50.39,
+        "descrição": "Para os amantes de comida caseira."
+    },
+    {
+        "item": "7-Up (20 fl oz)",
+        "preço": 38.13,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Brisk® Mango Iced Tea (20 fl oz)",
+        "preço": 44.89,
+        "descrição": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Brisk® Unsweetened No Lemon Iced Tea (20 fl oz)",
+        "preço": 44.78,
+        "descrição": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Diet Dr Pepper® (20 fl oz)",
+        "preço": 44.67,
+        "descrição": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Diet Mtn Dew® (20 fl oz)",
+        "preço": 42.74,
+        "descrição": "Sinta o sabor da natureza em cada mordida."
+    },
+    {
+        "item": "Diet Pepsi® (20 fl oz)",
+        "preço": 52.5,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Dr Pepper® (20 fl oz)",
+        "preço": 46.29,
+        "descrição": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "item": "G2 – Fruit Punch (20 fl oz)",
+        "preço": 57.38,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Mtn Dew® (20 fl oz)",
+        "preço": 58.57,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast™ (20 fl oz)",
+        "preço": 54.17,
+        "descrição": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast Zero Sugar (20 fl oz)",
+        "preço": 56.44,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Mtn Dew® Kickstart™ Orange Citrus (20 fl oz)",
+        "preço": 38.64,
+        "descrição": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Mug® Root Beer (20 fl oz)",
+        "preço": 53.62,
+        "descrição": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "item": "Pepsi® (20 fl oz)",
+        "preço": 48.55,
+        "descrição": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "item": "Pepsi® Wild Cherry (20 fl oz)",
+        "preço": 31.25,
+        "descrição": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "item": "Pepsi® Zero Sugar (20 fl oz)",
+        "preço": 34.26,
+        "descrição": "Sinta o sabor da natureza em cada mordida."
+    },
+    {
+        "item": "Sierra Mist® (20 fl oz)",
+        "preço": 43.49,
+        "descrição": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Tropicana® Pink Lemonade (20 fl oz)",
+        "preço": 45.2,
+        "descrição": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "item": " ",
+        "preço": 48.7,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "FOUNTAIN BEVERAGES (30 OZ)",
+        "preço": 35.25,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "7-Up (30 fl oz)",
+        "preço": 43.28,
+        "descrição": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "item": "Brisk® Mango Iced Tea (30 fl oz)",
+        "preço": 55.43,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "Brisk® Unsweetened No Lemon Iced Tea (30 fl oz)",
+        "preço": 45.27,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Diet Dr Pepper® (30 fl oz)",
+        "preço": 42.51,
+        "descrição": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "item": "Diet Mtn Dew® (30 fl oz)",
+        "preço": 37.56,
+        "descrição": "Uma experiência refrescante e doce."
+    },
+    {
+        "item": "Diet Pepsi® (30 fl oz)",
+        "preço": 51.45,
+        "descrição": "Sabores únicos que vão surpreender você."
+    },
+    {
+        "item": "Dr Pepper® (30 fl oz)",
+        "preço": 55.07,
+        "descrição": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "item": "G2 – Fruit Punch (30 fl oz)",
+        "preço": 41.64,
+        "descrição": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "item": "Mtn Dew® (30 fl oz)",
+        "preço": 29.99,
+        "descrição": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast™ (30 fl oz)",
+        "preço": 49.71,
+        "descrição": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "item": "Mtn Dew® Baja Blast Zero Sugar (30 fl oz)",
+        "preço": 58.49,
+        "descrição": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Mtn Dew® Kickstart™ Orange Citrus (30 fl oz)",
+        "preço": 35.21,
+        "descrição": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "item": "Mug® Root Beer (30 fl oz)",
+        "preço": 43.55,
+        "descrição": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "item": "Pepsi® (30 fl oz)",
+        "preço": 35.97,
+        "descrição": "Sabor autêntico e suculento."
+    },
+    {
+        "item": "Pepsi® Wild Cherry (30 fl oz)",
+        "preço": 55.2,
+        "descrição": "Uma combinação única de sabores e texturas."
+    },
+    {
+        "item": "Pepsi® Zero Sugar (30 fl oz)",
+        "preço": 37.25,
+        "descrição": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Sierra Mist® (30 fl oz)",
+        "preço": 55.33,
+        "descrição": "Sinta o sabor da natureza em cada mordida."
+    },
+    {
+        "item": "Tropicana® Pink Lemonade (30 fl oz)",
+        "preço": 33.03,
+        "descrição": "A escolha saudável para um dia agitado."
+    }
+]
