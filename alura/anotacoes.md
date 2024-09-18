@@ -1,6 +1,6 @@
-#Python
+# Python
 
-##Geral:
+## Geral:
 
 - print() => printa no console a informação
 - input() => printa no console e retorna o que o usuário respondeu
@@ -16,60 +16,60 @@
   - Não é necessário 'sair' (../) da pasta no import para acessar outras pastas
   - Pode ser importado dessa maneira: from arquivo import funcao/variavel
 
-###Imports muito comuns:
+### Imports muito comuns:
 
 os => parece ter várias coisas relacionadas a terminal(system('comando') é o que eu mais uso)
 re => lida com regex
 colorama = até onde vi, lida com coloração no terminal
 getpass => tem uma funcao getpass para input escondido
 
-##Declaração
+## Declaração
 
 - As variáveis são definidas sem palavra chave (como let ou const), só precisa botar o nome
 - Funções são definidas com 'def'
 - Utiliza snake_case
 
-##Condicionais:
+## Condicionais:
 
 - Ao invés de utilizar && e ||, se utiliza and e or.
 - Não é necessário usar and para operações como 3 < 5 < 4
 - Ao invés de utilizar !variável, se utiliza not variável
 
-###If/Else: if => elif => else
+### If/Else: if => elif => else
 
 Exemplo: 
   if 1 == 1: print('uau')
   elif 2 == 2: print('pog')
   else: print('hmm')
 
-###Ternários: valor_1 if condicao else valor_2
+### Ternários: valor_1 if condicao else valor_2
 
 Exemplo:
   opcao = 1 if 1 == 1 else 2
 
-###Switch: match => case => case _
+### Switch: match => case => case _
 
 Exemplo:
   match opcao:
     case 1:
       'a'
-    case 2 | c:
+    case 2 | 3:
       'b'
     case _:
       'padrão'
 
-##Conversão
+## Conversão
 
 - int(valor)
 - bool(valor)
 - str(valor)
 
-##Tuplas e Listas
+## Tuplas e Listas
 
 - Python possui tuplas (não podem ser alteradas, são definidas com tamanho e conteúdo fixo) => processamento melhor. (1, 2, 3)
 - Listas são arrays normais que não possuem tipo definido, assim como em javascript => [1, 2, 3, 4, 5]
 
-##For e While
+## For e While
 
 - Usar in para iterar por listas/tuplas, talvez of para objetos? Tem como aparentemente fazer for _ in range(numero), entender melhor essa função
   
@@ -80,7 +80,7 @@ Exemplo:
 
 - While é basicamente a mesma estrutura de sempre
 
-##Dicionário
+## Dicionário
 
 - {
   'chave': valor
@@ -92,7 +92,7 @@ Exemplo:
 - Para setar uma propriedade: dicionario['chave'] = valor => ou com dicionario.update({'chave': valor})
 - Para adicionar/atualizar uma chave com valor default: dicionario['chave'] = dicionario.get('chave', default)
 
-##Classes
+## Classes
 
 - Funcionam assim como classes em Java e Javascript
 - O 'this' é comumente referido como self, mas não precisa ser esse nome obrigatoriamente
@@ -110,10 +110,14 @@ Exemplo:
 - @property => define um método get para um certo atributo (privado geralmente), ele pode ser acessado sem passar nada, só com instancia.property
  - @classmethod => define um método para a classe, não é necessário, mas é uma boa prática
 
-FastAPI/Uvicorn
+## FastAPI/Uvicorn
 
 from fastapi import FastApi
 funcao = FastApi()
 
 rodar localmente:
 uvicorn arquivo:funcao --reload --host(definir o host: localhost) --port (definir a porta, padrão é 8000)
+
+ou pode ser também com:
+from uvicorn import uvicorn
+uvicorn.run(funcao, "host", porta = 8000)
